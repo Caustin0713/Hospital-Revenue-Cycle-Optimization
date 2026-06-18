@@ -1,7 +1,7 @@
 # Hospital-Revenue-Cycle-Optimization
 An end-to-end healthcare analytics project using Excel Power Query and Tableau to analyze $790K in insurance claim denials and optimize hospital operational revenue.
 ## 🔗 Interactive Tableau Dashboard
-👉 **[View the Live Tableau Dashboard Here](https://public.tableau.com/app/profile/christian.austin)**
+👉 **[View the Live Tableau Dashboard Here](https://public.tableau.com/views/HospitalRevenueOptimization/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 ## 📊 Dashboard Preview
 ![Hospital Revenue Dashboard](https://github.com/Caustin0713/Hospital-Revenue-Cycle-Optimization/blob/main/Hospital%20Revenue%20Cycle%20.png)
 
