@@ -3,7 +3,7 @@ An end-to-end healthcare analytics project using Excel Power Query and Tableau t
 ## 🔗 Interactive Tableau Dashboard
 👉 **[View the Live Tableau Dashboard Here](https://public.tableau.com/app/profile/christian.austin)**
 ## 📊 Dashboard Preview
-![Hospital Revenue Dashboard](dashboard_screenshot.png)
+![Hospital Revenue Dashboard](https://github.com/Caustin0713/Hospital-Revenue-Cycle-Optimization/blob/main/Hospital%20Revenue%20Cycle%20.png)
 
 ## Project Overview
 This project focuses on a major operational issue in healthcare administration: unpaid insurance claims. Using a raw public dataset of patient billing logs, I wanted to find out exactly where the hospital was losing money, which departments had the highest rejection rates, and what specific billing errors were causing the problem.
